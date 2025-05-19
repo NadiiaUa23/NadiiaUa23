@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nadiia</h1>
 
-<h3 align="center">A passionate frontend developer from Ukraine :sagittarius:</h3>
+<h3 align="center">A passionate frontent developer from Ukraine :sagittarius:</h3>
 
 <table align="center">
     <tr>
         <th><h3 align="left">Connect with me:</h3></th>
-        <th><h3 align="center">Languages and Tools:</h3></th>
+        <th><h3 align="center">My stack and tools:</h3></th>
     </tr>
     <tr>
         <td><p align="left">
@@ -17,7 +17,6 @@
  </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p></td>
     </tr>
 </table>
