@@ -13,5 +13,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiiaua23&show_icons=true&locale=en&layout=compact" alt="nadiiaua23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadiiaua23&" alt="nadiiaua23" /></p>
-<p> </p>
+<p>:blush: </p>
 [![Hits](https://u8views.com/api/v1/github/profiles/135448886/views/day-week-month-total-count.svg)](https://u8views.com/github/NadiiaUa23)
