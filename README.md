@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nadiia</h1>
-[![Hits](https://u8views.com/api/v1/github/profiles/135448886/views/day-week-month-total-count.svg)](https://u8views.com/github/NadiiaUa23)
 
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
