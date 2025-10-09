@@ -27,6 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadiiaua23&" alt="nadiiaua23" /></p>
   <div>
 
-<p>:blush: </p>
 
-[![Hits](https://u8views.com/api/v1/github/profiles/135448886/views/day-week-month-total-count.svg)](https://u8views.com/github/NadiiaUa23)
