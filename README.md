@@ -21,8 +21,7 @@
 </p></td>
     </tr>
 </table>
-<div align="center" >
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiiaua23&show_icons=true&locale=en&layout=compact" alt="nadiiaua23" /></p>
+
 
 
 
