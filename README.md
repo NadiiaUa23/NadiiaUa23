@@ -5,7 +5,7 @@ Junior Front-End Developer | React | TypeScript | Next.js
 </h3>
 
 <p align="center">
-HTML5 • CSS3 • JavaScript • Responsive Web Development • WordPress • Elementor
+HTML5 • CSS3 • JavaScript • Responsive Development • WordPress • Elementor
 </p>
 
 <p align="center">
@@ -18,9 +18,11 @@ Open to remote and on-site opportunities.
 
 Junior Front-End Developer with commercial experience in responsive web development and WordPress.
 
-Experienced in building React applications, landing pages, and business websites using modern Front-End technologies.
+Experienced in building React applications, responsive landing pages, and business websites using modern Front-End technologies.
 
 Previously worked as an Operating Room Nurse for nearly five years, bringing strong attention to detail, responsibility, teamwork, and problem-solving skills into software development.
+
+Passionate about creating clean, responsive, and user-friendly web applications.
 
 ---
 
@@ -44,14 +46,85 @@ Previously worked as an Operating Room Nurse for nearly five years, bringing str
 
 ## 🎯 Current Focus
 
-• React Performance  • Next.js  • Backend with Node.js
+• React.js  • Next.js  • Backend with Node.js
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NadiiaUa23&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiiaUa23&layout=compact&theme=tokyonight&hide_border=true)
 ---
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>📝 NoteHub</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,vite" />
+</p>
+
+<p>
+Modern note management application.
+</p>
+
+<p>
+<a href="https://05-notehub-h234.vercel.app">🌍 Live Demo</a><br><br>
+<a href="https://github.com/NadiiaUa23/05-notehub">💻 GitHub</a>
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🎬 React Movies</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,vite" />
+</p>
+
+<p>
+Movie search application using the TMDB API.
+</p>
+
+<p>
+<a href="https://03-react-movies-pi-nine.vercel.app">🌍 Live Demo</a><br><br>
+<a href="https://github.com/NadiiaUa23/03-react-movies">💻 GitHub</a>
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🎮 Bee Brilliant Blast</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+<p>
+Responsive landing page built in a Front-End team.
+</p>
+
+<p>
+<a href="https://nadiiaua23.github.io/STP-12574/">🌍 Live Demo</a><br><br>
+<a href="https://github.com/NadiiaUa23/STP-12574">💻 GitHub</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
 
 ## 🌍 Languages
 
-![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square)
+![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square)
 ![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square)
 
 ## 🤝 Connect with me
@@ -59,9 +132,6 @@ Previously worked as an Operating Room Nurse for nearly five years, bringing str
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiiaUa23&layout=compact&theme=tokyonight)
 
 
 
