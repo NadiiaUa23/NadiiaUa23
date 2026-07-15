@@ -1,28 +1,26 @@
 <h1 align="center">Hi 👋, I'm Nadiia Tkachenko</h1>
 
 <h3 align="center">
-  Junior Front-End Developer | React | TypeScript | Next.js
+Junior Front-End Developer | React | TypeScript | Next.js
 </h3>
 
 <p align="center">
-  HTML5 • CSS3 • JavaScript • Responsive Design • WordPress • Elementor Pro
+HTML5 • CSS3 • JavaScript • Responsive Web Development • WordPress • Elementor
 </p>
 
 <p align="center">
-  Open to remote and on-site opportunities.
+Open to remote and on-site opportunities.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Junior Front-End Developer with practical experience in commercial web development and team collaboration.
+Junior Front-End Developer with commercial experience in responsive web development and WordPress.
 
-I have experience developing responsive landing pages, business websites, and React applications using modern Front-End technologies.
+Experienced in building React applications, landing pages, and business websites using modern Front-End technologies.
 
-Before transitioning into software development, I worked for nearly five years as an Operating Room Nurse, where I developed strong attention to detail, responsibility, teamwork, and the ability to work effectively under pressure.
-
-Currently, I continue improving my skills in React, TypeScript, Next.js, and modern Front-End development while building personal and commercial projects.
+Previously worked as an Operating Room Nurse for nearly five years, bringing strong attention to detail, responsibility, teamwork, and problem-solving skills into software development.
 
 ---
 
@@ -36,15 +34,24 @@ Currently, I continue improving my skills in React, TypeScript, Next.js, and mod
 
 ---
 
+## 💼 Featured Projects
+
+🎬 React Movies
+🔗 Live Demo | GitHub
+
+📝 NoteHub
+🔗 Live Demo | GitHub
+
+🎮 Bee Brilliant Blast
+🔗 Live Demo | GitHub
+
 ## 🌐 Commercial Projects
 
-| Project | Live |
-|---------|------|
-| Carrocerías Usansolo | 🌍 [Visit](https://carroceriasusansolo.com) |
-| Hamartop | 🌍 [Visit](https://hamartop.bwdesarrollo3.es) |
-| Aroa Praiz Psicología | 🌍 [Visit](https://aroapraizpsicologia.bwdesarrollo3.es) |
+- 🌍 **Carrocerías Usansolo** · [Live Website](https://carroceriasusansolo.com)
 
----
+- 🌍 **Hamartop** · [Live Website](https://hamartop.bwdesarrollo3.es)
+
+- 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
 
 ## 🎯 Current Focus
@@ -57,14 +64,24 @@ Currently, I continue improving my skills in React, TypeScript, Next.js, and mod
 
 ---
 
-## 🌍 Languages & 🤝 Connect with me
+## 🌍 Languages
 
-| 🌍 Languages | 📫 Contact | 💼 Profiles |
-|--------------|------------|------------|
-| ![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=for-the-badge) <br> ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-FFD43B?style=for-the-badge) <br> ![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=for-the-badge) | <a href="mailto:nadiafullstack@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a><br><a href="https://t.me/Tkachenko_Nadiia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a> | <a href="https://www.linkedin.com/in/nadiia-tkachenko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br> |
+![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square)
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
 
 
- 
+ ## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NadiiaUa23&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiiaUa23&layout=compact&theme=tokyonight)
 
 
 
