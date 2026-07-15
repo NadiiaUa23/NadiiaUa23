@@ -23,6 +23,12 @@ Currently, I continue improving my skills in React, TypeScript, Next.js, and mod
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=NadiiaUa23&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/NadiiaUa23?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/NadiiaUa23?style=social)
+
 ## 🚀 Tech Stack
 
 <p align="center">
