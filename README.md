@@ -30,7 +30,7 @@ Passionate about creating clean, responsive, and user-friendly web applications.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode,vite,figma,wordpress,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode,npm,vite,figma,wordpress,ElementorPro" />
 
 </p>
 
