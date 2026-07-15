@@ -33,19 +33,7 @@ Previously worked as an Operating Room Nurse for nearly five years, bringing str
 </p>
 
 ---
-
-## 💼 Featured Projects
-
-🎬 React Movies
-🔗 Live Demo | GitHub
-
-📝 NoteHub
-🔗 Live Demo | GitHub
-
-🎮 Bee Brilliant Blast
-🔗 Live Demo | GitHub
-
-## 🌐 Commercial Projects
+## 🌐 Commercial Projects (WordPress • Elementor)
 
 - 🌍 **Carrocerías Usansolo** · [Live Website](https://carroceriasusansolo.com)
 
@@ -56,11 +44,7 @@ Previously worked as an Operating Room Nurse for nearly five years, bringing str
 
 ## 🎯 Current Focus
 
-• React Performance
-
-• Next.js
-
-• Backend with Node.js
+• React Performance  • Next.js  • Backend with Node.js
 
 ---
 
@@ -76,10 +60,6 @@ Previously worked as an Operating Room Nurse for nearly five years, bringing str
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
 
-
- ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=NadiiaUa23&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiiaUa23&layout=compact&theme=tokyonight)
 
