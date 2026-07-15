@@ -22,12 +22,9 @@ Before transitioning into software development, I worked for nearly five years a
 Currently, I continue improving my skills in React, TypeScript, Next.js, and modern Front-End development while building personal and commercial projects.
 
 ---
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=NadiiaUa23&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiiaUa23&layout=compact&theme=tokyonight)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=NadiiaUa23&theme=tokyo-night)
 
 ## 🚀 Tech Stack
 
