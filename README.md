@@ -125,31 +125,21 @@ Built responsive business websites using WordPress and Elementor Pro.
 
 ---
 
-## 🌍 Languages
+## 🗣 Languages
 
-🇺🇦 Ukrainian — Native
-
-🇬🇧 English — A2 (Improving)
-
-🇪🇸 Spanish — A1 (Improving)
+![English](https://img.shields.io/badge/English-A2/В1-007ACC?style=flat)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat)
+![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat)
 
 ---
 
-## 📫 Contact Me
+## 📫 How to reach me
 
-📧 nadiafullstack@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nadiia-tkachenko) |
+[Telegram](https://t.me/Tkachenko_Nadiia) |
+[Email](mailto:nadiafullstack@gmail.com)
 
-💼 LinkedIn
 
-https://www.linkedin.com/in/nadiia-tkachenko
-
-💬 Telegram
-
-https://t.me/Tkachenko_Nadiia
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=NadiiaUa23&theme=tokyonight&no-frame=true&row=1)
  
 
 
