@@ -57,11 +57,11 @@ Currently, I continue improving my skills in React, TypeScript, Next.js, and mod
 
 ---
 
-## 🌍 Languages & 📫 Contact
+## 🌍 Languages & 🤝 Connect with me
 
-| 🌍 Languages | 📫 Contact |
-|-------------|------------|
-| ![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat)<br>![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat)<br>![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat) | <a href="https://www.linkedin.com/in/nadiia-tkachenko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a><br><a href="https://t.me/Tkachenko_Nadiia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a><br><a href="mailto:nadiafullstack@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a> |
+| 🌍 Languages | 📫 Contact | 💼 Profiles |
+|--------------|------------|------------|
+| ![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=for-the-badge) <br> ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-FFD43B?style=for-the-badge) <br> ![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=for-the-badge) | <a href="mailto:nadiafullstack@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a><br><a href="https://t.me/Tkachenko_Nadiia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a> | <a href="https://www.linkedin.com/in/nadiia-tkachenko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><a href="https://github.com/NadiiaUa23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
 
 
  
