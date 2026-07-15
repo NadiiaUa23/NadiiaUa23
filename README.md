@@ -103,16 +103,19 @@ Movie search application using TMDB API.
 
 ---
 
-## 🌐 Commercial WordPress Projects
+🌐 Commercial Experience
 
-🔹 **Carrocerías Usansolo**
-- 🌍 [Live Website](https://carroceriasusansolo.com)
+🏢 Carrocerías Usansolo
+🔗 Live Website
+🛠 WordPress • Elementor • HTML • CSS
 
-🔹 **Hamartop**
-- 🌍 [Live Website](https://hamartop.bwdesarrollo3.es)
+🏢 Hamartop
+🔗 Live Website
+🛠 WordPress • Elementor
 
-🔹 **Aroa Praiz Psicología**
-- 🌍 [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
+🏢 Aroa Praiz Psicología
+🔗 Live Website
+🛠 WordPress • Elementor
 
 ---
 
