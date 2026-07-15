@@ -36,19 +36,13 @@ Currently, I continue improving my skills in React, TypeScript, Next.js, and mod
 
 ---
 
-🌐 Commercial Experience
+## 🌐 Commercial Projects
 
-🏢 Carrocerías Usansolo
-🔗 Live Website
-🛠 WordPress • Elementor • HTML • CSS
-
-🏢 Hamartop
-🔗 Live Website
-🛠 WordPress • Elementor
-
-🏢 Aroa Praiz Psicología
-🔗 Live Website
-🛠 WordPress • Elementor
+| Project | Live |
+|---------|------|
+| Carrocerías Usansolo | 🌍 [Visit](https://carroceriasusansolo.com) |
+| Hamartop | 🌍 [Visit](https://hamartop.bwdesarrollo3.es) |
+| Aroa Praiz Psicología | 🌍 [Visit](https://aroapraizpsicologia.bwdesarrollo3.es) |
 
 ---
 
