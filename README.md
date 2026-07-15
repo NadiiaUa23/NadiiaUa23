@@ -46,29 +46,22 @@ Currently, I continue improving my skills in React, TypeScript, Next.js, and mod
 
 ---
 
-## 🌱 Currently Learning
 
-- Advanced React
-- Next.js
-- TypeScript
-- Node.js
-- Full Stack Development
+## 🎯 Current Focus
 
----
+• React Performance
 
-## 🗣 Languages
+• Next.js
 
-![English](https://img.shields.io/badge/English-A2/В1-007ACC?style=flat)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat)
-![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat)
+• Backend with Node.js
 
 ---
 
-## 📫 How to reach me
+## 🌍 Languages & 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/nadiia-tkachenko) |
-[Telegram](https://t.me/Tkachenko_Nadiia) |
-[Email](mailto:nadiafullstack@gmail.com)
+| 🌍 Languages | 📫 Contact |
+|-------------|------------|
+| ![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat)<br>![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat)<br>![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat) | <a href="https://www.linkedin.com/in/nadiia-tkachenko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a><br><a href="https://t.me/Tkachenko_Nadiia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a><br><a href="mailto:nadiafullstack@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a> |
 
 
  
