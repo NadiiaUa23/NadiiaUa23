@@ -110,8 +110,13 @@ Responsive landing page built in a Front-End team.
 </table>
 
 
+## 🎯 Current Focus
 
-## 🎯 Current Focus : React.js  • Next.js  • Backend with Node.js
+![Next.js](https://img.shields.io/badge/Next.js-Learning-black?style=flat-square&logo=nextdotjs)
+
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js)
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack-In%20Progress-blue?style=flat-square)
 
 
 
