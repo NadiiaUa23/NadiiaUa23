@@ -22,12 +22,12 @@ Before transitioning into software development, I worked for nearly five years a
 Currently, I continue improving my skills in React, TypeScript, Next.js, and modern Front-End development while building personal and commercial projects.
 
 ---
+## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=NadiiaUa23&color=blue)
+![](https://github-readme-stats.vercel.app/api?username=NadiiaUa23&show_icons=true&theme=tokyonight)
 
-![GitHub followers](https://img.shields.io/github/followers/NadiiaUa23?style=social)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiiaUa23&layout=compact&theme=tokyonight)
 
-![GitHub stars](https://img.shields.io/github/stars/NadiiaUa23?style=social)
 
 ## 🚀 Tech Stack
 
