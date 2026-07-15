@@ -44,9 +44,6 @@ Passionate about creating clean, responsive, and user-friendly web applications.
 - 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
 
-## 🎯 Current Focus : React.js  • Next.js  • Backend with Node.js
-
-
 <h2>🚀 Featured Projects</h2>
 
 <table>
@@ -111,6 +108,12 @@ Responsive landing page built in a Front-End team.
 
 </tr>
 </table>
+
+
+
+## 🎯 Current Focus : React.js  • Next.js  • Backend with Node.js
+
+
 
 ## 🌍 Languages
 
