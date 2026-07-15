@@ -44,16 +44,9 @@ Passionate about creating clean, responsive, and user-friendly web applications.
 - 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
 
-## 🎯 Current Focus
+## 🎯 Current Focus : React.js  • Next.js  • Backend with Node.js
 
-• React.js  • Next.js  • Backend with Node.js
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=NadiiaUa23&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiiaUa23&layout=compact&theme=tokyonight&hide_border=true)
----
 <h2>🚀 Featured Projects</h2>
 
 <table>
@@ -118,8 +111,6 @@ Responsive landing page built in a Front-End team.
 
 </tr>
 </table>
-
-
 
 ## 🌍 Languages
 
