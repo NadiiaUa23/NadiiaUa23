@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nadiia Tkachenko</h1>
 
 <h3 align="center">
-Junior Front-End Developer | React | TypeScript | Next.js
+  Junior Front-End Developer | React | TypeScript | Next.js
 </h3>
 
 <p align="center">
-Frontend Developer based in Bilbao, Spain 🇪🇸 <br/>
-Open to Junior Front-End Developer opportunities.
+  HTML5 • CSS3 • JavaScript • Responsive Design • WordPress • Elementor Pro
+</p>
+
+<p align="center">
+  Open to remote and on-site opportunities.
 </p>
 
 ---
@@ -30,76 +33,6 @@ Currently, I continue improving my skills in React, TypeScript, Next.js, and mod
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode,vite,figma,wordpress,npm" />
 
 </p>
-
----
-
-## 💼 Featured Projects
-
-### 🎮 Bee Brilliant Blast
-
-Responsive landing page developed in a Front-End team.
-
-**Technologies**
-
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-
-✔ Responsive Design
-
-✔ Mobile First
-
-✔ Team Project
-
-🔗 Live Demo
-
-https://nadiiaua23.github.io/STP-12574/
-
----
-
-### 📝 NoteHub
-
-Modern Notes application.
-
-**Technologies**
-
-- React
-- TypeScript
-- TanStack Query
-- Axios
-- REST API
-
-✔ CRUD
-
-✔ Pagination
-
-✔ Form Validation
-
-✔ Responsive Design
-
-🔗 Live Demo
-
-https://05-notehub-h234.vercel.app/
-
----
-
-### 🎬 React Movies
-
-Movie search application using TMDB API.
-
-**Technologies**
-
-- React
-- TypeScript
-- Axios
-
-✔ REST API
-
-✔ Modal Window
-
-✔ Responsive Design
 
 ---
 
