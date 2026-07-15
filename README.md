@@ -103,15 +103,16 @@ Movie search application using TMDB API.
 
 ---
 
-### 🌐 Commercial WordPress Projects
+## 🌐 Commercial WordPress Projects
 
-✔ Carrocerías Usansolo
+🔹 **Carrocerías Usansolo**
+- 🌍 [Live Website](https://carroceriasusansolo.com)
 
-✔ Hamartop
+🔹 **Hamartop**
+- 🌍 [Live Website](https://hamartop.bwdesarrollo3.es)
 
-✔ Aroa Praiz Psicología
-
-Built responsive business websites using WordPress and Elementor Pro.
+🔹 **Aroa Praiz Psicología**
+- 🌍 [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
 ---
 
