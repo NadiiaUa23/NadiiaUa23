@@ -1,26 +1,154 @@
-<h1 align="center">Hi 👋, I'm Nadiia</h1>
+<h1 align="center">Hi 👋, I'm Nadiia Tkachenko</h1>
 
-<h3 align="center">A passionate frontent developer from Ukraine :sagittarius:</h3>
+<h3 align="center">
+Junior Front-End Developer | React | TypeScript | Next.js
+</h3>
 
-<table align="center">
-    <tr>
-        <th><h3 align="left">Connect with me:</h3></th>
-        <th><h3 align="center">My stack and tools:</h3></th>
-    </tr>
-    <tr>
-        <td><p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nadiia-tkachenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nadiia-tkachenko" height="30" width="40" /></a>
-</p></td>
-        <td><p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-            <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-</p></td>
-    </tr>
-</table>
+<p align="center">
+Frontend Developer based in Bilbao, Spain 🇪🇸 <br/>
+Open to Junior Front-End Developer opportunities.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I am a Junior Front-End Developer with practical experience in commercial web development and team collaboration.
+
+I have experience developing responsive landing pages, business websites, and React applications using modern Front-End technologies.
+
+Before transitioning into software development, I worked for nearly five years as an Operating Room Nurse, where I developed strong attention to detail, responsibility, teamwork, and the ability to work effectively under pressure.
+
+Currently, I continue improving my skills in React, TypeScript, Next.js, and modern Front-End development while building personal and commercial projects.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode,vite,figma,wordpress,npm" />
+
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🎮 Bee Brilliant Blast
+
+Responsive landing page developed in a Front-End team.
+
+**Technologies**
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+✔ Responsive Design
+
+✔ Mobile First
+
+✔ Team Project
+
+🔗 Live Demo
+
+https://nadiiaua23.github.io/STP-12574/
+
+---
+
+### 📝 NoteHub
+
+Modern Notes application.
+
+**Technologies**
+
+- React
+- TypeScript
+- TanStack Query
+- Axios
+- REST API
+
+✔ CRUD
+
+✔ Pagination
+
+✔ Form Validation
+
+✔ Responsive Design
+
+🔗 Live Demo
+
+https://05-notehub-h234.vercel.app/
+
+---
+
+### 🎬 React Movies
+
+Movie search application using TMDB API.
+
+**Technologies**
+
+- React
+- TypeScript
+- Axios
+
+✔ REST API
+
+✔ Modal Window
+
+✔ Responsive Design
+
+---
+
+### 🌐 Commercial WordPress Projects
+
+✔ Carrocerías Usansolo
+
+✔ Hamartop
+
+✔ Aroa Praiz Psicología
+
+Built responsive business websites using WordPress and Elementor Pro.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Next.js
+- TypeScript
+- Node.js
+- Full Stack Development
+
+---
+
+## 🌍 Languages
+
+🇺🇦 Ukrainian — Native
+
+🇬🇧 English — A2 (Improving)
+
+🇪🇸 Spanish — A1 (Improving)
+
+---
+
+## 📫 Contact Me
+
+📧 nadiafullstack@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/nadiia-tkachenko
+
+💬 Telegram
+
+https://t.me/Tkachenko_Nadiia
+
+ 
+
 
 
 
