@@ -124,4 +124,4 @@ Responsive landing page built in a Front-End team.
 <img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square" alt="Ukrainian"> | <img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square" alt="English"> | <img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square" alt="Spanish">
 
 
-
+[![Follow](https://img.shields.io/github/followers/NadiiaUa23?style=for-the-badge)](https://github.com/NadiiaUa23)
