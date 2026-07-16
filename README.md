@@ -14,9 +14,15 @@ Open to remote and on-site opportunities.
 
 ---
 
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
+
 ## 👩‍💻 About Me
 
-Junior Front-End Developer with commercial experience in responsive web development and WordPress.
+Junior **Front-End Developer**  with commercial experience in responsive web development and WordPress.
 
 Experienced in building React applications, responsive landing pages, and business websites using modern Front-End technologies.
 
@@ -120,19 +126,13 @@ Responsive landing page built in a Front-End team.
 
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-In%20Progress-blue?style=flat-square)
 
-
-
 ## 🌍 Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square)
 ![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square)
 ![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square)
 
-## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
 
 
 
