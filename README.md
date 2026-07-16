@@ -176,7 +176,9 @@ Responsive landing page built in a Front-End team.
 
 <p>
   <img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square">
+    
   <img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square">
+    
   <img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square">
 </p>
 
