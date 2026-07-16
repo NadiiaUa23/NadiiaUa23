@@ -16,7 +16,7 @@ Open to remote and on-site opportunities.
 <img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 
 <td width="65%" valign="top">
