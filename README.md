@@ -12,7 +12,7 @@ HTML5 • CSS3 • JavaScript • Responsive Development • WordPress • Eleme
 Open to remote and on-site opportunities.
 </p>
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 <table width="100%">
 <tr>
@@ -27,7 +27,7 @@ Previously worked as an **Operating Room Nurse** for nearly **five years**, brin
 
 Passionate about creating **clean**, **responsive**, and **user-friendly web applications**.
 
-<h3>🤝 Connect with me </h3> 
+## 🤝 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
