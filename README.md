@@ -12,11 +12,6 @@ HTML5 • CSS3 • JavaScript • Responsive Development • WordPress • Eleme
 Open to remote and on-site opportunities.
 </p>
 
-## 🤝 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia) 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
-
 ## 👩‍💻 About Me
 
 <table width="100%">
@@ -31,6 +26,11 @@ Experienced in building **React applications**, **responsive landing pages**, an
 Previously worked as an **Operating Room Nurse** for nearly **five years**, bringing strong **attention to detail**, **responsibility**, **teamwork**, and **problem-solving skills** into software development.
 
 Passionate about creating **clean**, **responsive**, and **user-friendly web applications**.
+
+## 🤝 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia) 
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
 
 </td>
 
