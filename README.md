@@ -39,7 +39,6 @@ Passionate about creating clean, responsive, and user-friendly web applications.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,nodejs" height="42" />
 </p>
 
----
 ## 🌐 Commercial Projects (WordPress • Elementor)
 
 - 🌍 **Carrocerías Usansolo** · [Live Website](https://carroceriasusansolo.com)
@@ -123,14 +122,11 @@ Responsive landing page built in a Front-End team.
 </tr>
 </table>
 
-
 ## 🎯 Current Focus
 
 ![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square)
-
----
 
 ## 🌍 Languages
 
