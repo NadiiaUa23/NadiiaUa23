@@ -56,10 +56,10 @@ Passionate about creating clean, responsive, and user-friendly web applications.
 
 <td width="33%" align="center" valign="top">
 
-<h3>📝 NoteHub</h3>
+<h3>📝 NoteHub Next.js</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,vite" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts" height="42" />
 </p>
 
 <p>
@@ -67,8 +67,11 @@ Modern note management application.
 </p>
 
 <p>
-<a href="https://05-notehub-h234.vercel.app">🌍 Live Demo</a><br><br>
-<a href="https://github.com/NadiiaUa23/05-notehub">💻 GitHub</a>
+<a href="https://06-notehub-nextjs-omega-jet.vercel.app/notes">🌍 Live Demo</a>
+</p>
+
+<p>
+<a href="https://github.com/NadiiaUa23/06-notehub-nextjs">💻 GitHub</a>
 </p>
 
 </td>
@@ -78,7 +81,7 @@ Modern note management application.
 <h3>🎬 React Movies</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,vite" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite" height="42" />
 </p>
 
 <p>
@@ -86,7 +89,10 @@ Movie search application using the TMDB API.
 </p>
 
 <p>
-<a href="https://03-react-movies-pi-nine.vercel.app">🌍 Live Demo</a><br><br>
+<a href="https://03-react-movies-pi-nine.vercel.app">🌍 Live Demo</a>
+</p>
+
+<p>
 <a href="https://github.com/NadiiaUa23/03-react-movies">💻 GitHub</a>
 </p>
 
@@ -97,7 +103,7 @@ Movie search application using the TMDB API.
 <h3>🎮 Bee Brilliant Blast</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="42" />
 </p>
 
 <p>
@@ -105,7 +111,10 @@ Responsive landing page built in a Front-End team.
 </p>
 
 <p>
-<a href="https://nadiiaua23.github.io/STP-12574/">🌍 Live Demo</a><br><br>
+<a href="https://nadiiaua23.github.io/STP-12574/">🌍 Live Demo</a>
+</p>
+
+<p>
 <a href="https://github.com/NadiiaUa23/STP-12574">💻 GitHub</a>
 </p>
 
