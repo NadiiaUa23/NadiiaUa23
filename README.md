@@ -127,46 +127,45 @@ Responsive landing page built in a Front-End team.
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 <h2>🎯 Current Focus</h2>
 
-<p>
-
+<ul>
+<li>
 <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+</li>
 
-<br><br>
-
+<li>
 <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white">
+</li>
 
-<br><br>
-
+<li>
 <img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square">
-
-</p>
+</li>
+</ul>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 <h2>🌍 Languages</h2>
 
-<p>
-
+<ul>
+<li>
 <img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square">
+</li>
 
+<li>
 <img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square">
+</li>
 
+<li>
 <img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square">
-
-</p>
+</li>
+</ul>
 
 </td>
 
 </tr>
 </table>
-
-
-
-
-
