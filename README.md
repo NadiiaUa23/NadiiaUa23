@@ -16,7 +16,7 @@ Open to remote and on-site opportunities.
 <img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
-<table width="100%" align="center">
+<table width="100%" >
 <tr>
 
 <td width="65%" valign="top">
@@ -32,11 +32,13 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 <p align="center">
 <img src="https://img.shields.io/badge/📞%20Connect%20with%20me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
-
+<div  align="center"> 
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
 
+</div>
 </td>
 
 <td width="35%" align="center" valign="middle">
