@@ -145,7 +145,7 @@ Responsive landing page built in a Front-End team.
 
 </td>
 
-<td width="20%" valign="middle" align="center">
+<td width="100%" valign="middle" align="center">
 
 <img
   src="./assets/fy2H.gif"
