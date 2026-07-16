@@ -27,7 +27,7 @@ Previously worked as an **Operating Room Nurse** for nearly **five years**, brin
 
 Passionate about creating **clean**, **responsive**, and **user-friendly web applications**.
 
-## 🤝 Connect with me  
+<h3>🤝 Connect with me </h3> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
@@ -50,7 +50,7 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 </tr>
 </table>
 
-## 🚀 Tech Stack
+<h3>🚀 Tech Stack </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="42" />
@@ -69,7 +69,7 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 - 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
 
-<h2>🚀 Featured Projects</h2>
+<h3>🚀 Featured Projects </h3>
 
 <table>
 <tr>
@@ -143,10 +143,7 @@ Responsive landing page built in a Front-End team.
 </tr>
 </table>
 
-<table width="100%">
-<tr>
 
-<td width="80%" valign="top" align="left">
 
 <h3>🎯 Current Focus</h3>
 
@@ -164,17 +161,6 @@ Responsive landing page built in a Front-End team.
   <img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square">
 </p>
 
-</td>
 
-<td width="30%" valign="middle" align="right">
-  <img
-    src="./assets/fy2H.gif"
-    alt="Animated cat coding"
-    width="240"
-  />
-</td>
-
-</tr>
-</table>
 
 
