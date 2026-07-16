@@ -147,7 +147,7 @@ Responsive landing page built in a Front-End team.
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<td width="100%" valign="top" align="left">
 
 <h2>🌍 Languages</h2>
 
