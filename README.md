@@ -124,48 +124,16 @@ Responsive landing page built in a Front-End team.
 </table>
 
 
-<table width="100%">
-<tr>
+## 🎯 Current Focus
 
-<td width="100%" valign="top" align="left">
+![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square)
 
-<h2>🎯 Current Focus</h2>
+---
 
-<ul>
-<li>
-<img src="https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-</li>
+## 🌍 Languages
 
-<li>
-<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white">
-</li>
-
-<li>
-<img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square">
-</li>
-</ul>
-
-</td>
-
-<td width="100%" valign="top" align="left">
-
-<h2>🌍 Languages</h2>
-
-<ul>
-<li>
-<img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square">
-</li>
-
-<li>
-<img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square">
-</li>
-
-<li>
-<img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square">
-</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square)
+![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square)
