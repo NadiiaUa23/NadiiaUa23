@@ -60,7 +60,7 @@ Please wait 🐾</span></b>
 </table>
 
 <p>
-<img src="https://img.shields.io/badge/%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/%20Tech%20Stack-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
 <p align="center">
