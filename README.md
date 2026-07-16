@@ -82,47 +82,40 @@ Please wait 🐾</span></b>
 - 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
 <p>
-<img src="https://img.shields.io/badge/🚀%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
-
-
-<h3>📝 NoteHub Next.js</h3> <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts" height="34" />
+<p>
+<b>📝 NoteHub Next.js</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts" height="22" align="center" />
 &nbsp;&nbsp;
-Modern note management application.</p> <p>
+Modern note management application.
+&nbsp;&nbsp;
 <a href="https://06-notehub-nextjs-omega-jet.vercel.app/notes">🌍 Live Demo</a>
-&nbsp;•&nbsp; <a href="https://github.com/NadiiaUa23/06-notehub-nextjs">💻 GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/NadiiaUa23/06-notehub-nextjs">💻 GitHub</a>
 </p>
 
-<h3>🎬 React Movies</h3>
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,vite" height="34" />
+<b>🎬 React Movies</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=react,ts,vite" height="22" align="center" />
 &nbsp;&nbsp;
-Movie search application using TMDB API.
-</p>
-
-<p>
+Movie search application using the TMDB API.
+&nbsp;&nbsp;
 <a href="https://03-react-movies-pi-nine.vercel.app">🌍 Live Demo</a>
 &nbsp;•&nbsp;
 <a href="https://github.com/NadiiaUa23/03-react-movies">💻 GitHub</a>
 </p>
 
-<h3>🎮 Bee Brilliant Blast</h3>
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="34" />
+<b>🎮 Bee Brilliant Blast</b> &nbsp;•&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="22" align="center" />
 &nbsp;&nbsp;
 Responsive landing page built in a Front-End team.
-</p>
-
-<p>
+&nbsp;&nbsp;
 <a href="https://nadiiaua23.github.io/STP-12574/">🌍 Live Demo</a>
 &nbsp;•&nbsp;
 <a href="https://github.com/NadiiaUa23/STP-12574">💻 GitHub</a>
 </p>
-
-
 <p>
 <img src="https://img.shields.io/badge/%20Languages-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
