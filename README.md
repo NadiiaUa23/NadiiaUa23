@@ -145,15 +145,100 @@ Responsive landing page built in a Front-End team.
 
 </td>
 
-<td width="100%" valign="middle" align="center">
-
-<img
-  src="./assets/fy2H.gif"
-  alt="Animated cat coding"
-  width="280"
-/>
-
+<td width="30%" valign="middle" align="right">
+  <img
+    src="./assets/fy2H.gif"
+    alt="Animated cat coding"
+    width="240"
+  />
 </td>
 
 </tr>
 </table>
+
+
+<h1 align="center">Hi 👋, I'm Nadiia Tkachenko</h1>
+
+<h3 align="center">
+Junior Front-End Developer | React | TypeScript | Next.js
+</h3>
+
+<p align="center">
+HTML5 • CSS3 • JavaScript • Responsive Development • WordPress • Elementor
+</p>
+
+<p align="center">
+Open to remote and on-site opportunities.
+</p>
+
+<p align="center">
+<img src="./assets/fy2H.gif" width="220" alt="Coding Cat" />
+</p>
+
+<p align="center">
+<i>Writing code... one paw at a time 🐾</i>
+</p>
+
+---
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
+
+---
+
+## 👩‍💻 About Me
+
+**Junior Front-End Developer** with **commercial experience** in **responsive web development** and **WordPress**.
+
+Experienced in building **React applications**, **responsive landing pages**, and **business websites** using modern **Front-End technologies**.
+
+Previously worked as an **Operating Room Nurse** for nearly **five years**, bringing strong **attention to detail**, **responsibility**, **teamwork**, and **problem-solving skills** into software development.
+
+Passionate about creating **clean**, **responsive**, and **user-friendly web applications**.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="42" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,nodejs" height="42" />
+</p>
+
+---
+
+## 🌐 Commercial Projects (WordPress • Elementor)
+
+- 🌍 **Carrocerías Usansolo** · [Live Website](https://carroceriasusansolo.com)
+
+- 🌍 **Hamartop** · [Live Website](https://hamartop.bwdesarrollo3.es)
+
+- 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
+
+---
+
+## 🚀 Featured Projects
+
+<!-- здесь остаются твои карточки проектов -->
+
+---
+
+## 🎯 Current Focus
+
+<img src="https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square">
+
+---
+
+## 🌍 Languages
+
+<img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square">
+<img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square">
+<img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square">
