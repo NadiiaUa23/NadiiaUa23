@@ -12,7 +12,9 @@ HTML5 • CSS3 • JavaScript • Responsive Development • WordPress • Eleme
 Open to remote and on-site opportunities.
 </p>
 
-## 👩‍💻 About Me
+<p>
+<img src="https://img.shields.io/badge/👩‍💻%20About%20Me-FFD43B?style=for-the-badge">
+</p>
 
 <table width="100%">
 <tr>
