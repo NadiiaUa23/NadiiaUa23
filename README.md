@@ -29,9 +29,11 @@ Passionate about creating clean, responsive, and user-friendly web applications.
 ## 🚀 Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="42" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode,npm,vite,figma,wordpress" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,nodejs" height="42" />
 </p>
 
 ---
