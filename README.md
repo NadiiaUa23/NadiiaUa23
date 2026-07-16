@@ -45,7 +45,8 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 <br>
 
 <p align="center">
-<b><span style="color:#FFD700;">Writing code... one paw at a time 🐾</span></b>
+<b><span style="color:#FFD700;">Debugging...</br>
+Please wait 🐾</span></b>
 </p>
 </td>
 
