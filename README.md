@@ -162,7 +162,7 @@ Responsive landing page built in a Front-End team.
 <img src="https://img.shields.io/badge/%20Languages-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
-<img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square" alt="Ukrainian"><img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square" alt="English"><img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square" alt="Spanish">
+<img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square" alt="Ukrainian"> | <img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square" alt="English"> | <img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square" alt="Spanish">
 
 
 
