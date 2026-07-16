@@ -12,7 +12,7 @@ HTML5 • CSS3 • JavaScript • Responsive Development • WordPress • Eleme
 Open to remote and on-site opportunities.
 </p>
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 <table width="100%">
 <tr>
@@ -44,7 +44,9 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 
 <br>
 
-<i>Debugging...<br>Please wait 🐾</i>
+<p align="center">
+<b><span style="color:#FFD700;">Writing code... one paw at a time 🐾</span></b>
+</p>
 </td>
 
 </tr>
