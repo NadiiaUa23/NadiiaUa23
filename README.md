@@ -125,7 +125,7 @@ Responsive landing page built in a Front-End team.
 <table width="100%">
 <tr>
 
-<td width="60%" valign="top" align="left">
+<td width="80%" valign="top" align="left">
 
 <h3>🎯 Current Focus</h3>
 
@@ -145,7 +145,7 @@ Responsive landing page built in a Front-End team.
 
 </td>
 
-<td width="40%" valign="middle" align="center">
+<td width="20%" valign="middle" align="center">
 
 <img
   src="./assets/fy2H.gif"
