@@ -45,15 +45,10 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 <br>
 
 <i>Debugging...<br>Please wait 🐾</i>
-
-
-
 </td>
 
 </tr>
 </table>
-
----
 
 ## 🚀 Tech Stack
 
