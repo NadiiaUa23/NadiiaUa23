@@ -19,14 +19,15 @@ Open to remote and on-site opportunities.
 <p>
 <img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
+Hi! 👋 I'm **Nadiia**, a **Junior Front-End Developer** who believes it's never too late to change your life and start building something new.
 
-**Junior Front-End Developer** with **commercial experience** in **responsive web development** and **WordPress**.
+My path into software development began after nearly **five years as an Operating Room Nurse**. Moving to **Spain** inspired me to challenge myself, learn a completely new profession, and pursue a career in technology.
 
-Experienced in building **React applications**, **responsive landing pages**, and **business websites** using modern **Front-End technologies**.
+Today I combine **commercial WordPress experience**, **team collaboration**, and modern Front-End technologies including **React**, **TypeScript**, and **Next.js** to build responsive, user-friendly web applications.
 
-Previously worked as an **Operating Room Nurse** for nearly **five years**, bringing strong **attention to detail**, **responsibility**, **teamwork**, and **problem-solving skills** into software development.
+I genuinely enjoy learning, solving real-world problems, and transforming ideas into clean, practical solutions.
 
-Passionate about creating **clean**, **responsive**, and **user-friendly web applications**.
+Every project teaches me something new, and every commit brings me one step closer to becoming the developer I aspire to be.
 
 <p align="center">
 <img src="https://img.shields.io/badge/📞%20Connect%20with%20me-FFD43B?style=for-the-badge&logoColor=black" />
