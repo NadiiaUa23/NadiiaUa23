@@ -29,7 +29,7 @@ Previously worked as an **Operating Room Nurse** for nearly **five years**, brin
 
 Passionate about creating **clean**, **responsive**, and **user-friendly web applications**.
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/📞%20Connect%20with%20me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
