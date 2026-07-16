@@ -12,14 +12,13 @@ HTML5 • CSS3 • JavaScript • Responsive Development • WordPress • Eleme
 Open to remote and on-site opportunities.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
-</p>
-
 <table width="100%" >
 <tr>
 
-<td width="65%" valign="top">
+<td width="80%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
+</p>
 
 **Junior Front-End Developer** with **commercial experience** in **responsive web development** and **WordPress**.
 
@@ -41,7 +40,7 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 </div>
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle">
 
 <img
     src="./assets/fy2H.gif"
