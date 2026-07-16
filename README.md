@@ -15,7 +15,7 @@ Open to remote and on-site opportunities.
 <table width="100%" >
 <tr>
 
-<td width="80%" valign="top">
+<td width="90%" valign="top">
 <p>
 <img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
@@ -40,7 +40,7 @@ Passionate about creating **clean**, **responsive**, and **user-friendly web app
 </div>
 </td>
 
-<td width="20%" align="center" valign="middle">
+<td width="10%" align="center" valign="middle">
 
 <img
     src="./assets/fy2H.gif"
