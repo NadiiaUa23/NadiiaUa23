@@ -13,7 +13,7 @@ Open to remote and on-site opportunities.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/👩‍💻%20About%20Me-FFD43B?style=for-the-badge">
+<img src="https://img.shields.io/badge/👩‍💻%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
 <table width="100%">
