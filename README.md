@@ -85,10 +85,6 @@ Please wait 🐾</span></b>
 <img src="https://img.shields.io/badge/🚀%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
 
 <h3>📝 NoteHub Next.js</h3>
 
@@ -104,10 +100,6 @@ Modern note management application.
 <a href="https://github.com/NadiiaUa23/06-notehub-nextjs">💻 GitHub</a>
 </p>
 
-</td>
-
-<td width="33%" valign="top">
-
 <h3>🎬 React Movies</h3>
 
 <p>
@@ -121,10 +113,6 @@ Movie search application using TMDB API.
 &nbsp;•&nbsp;
 <a href="https://github.com/NadiiaUa23/03-react-movies">💻 GitHub</a>
 </p>
-
-</td>
-
-<td width="33%" valign="top">
 
 <h3>🎮 Bee Brilliant Blast</h3>
 
@@ -140,10 +128,6 @@ Responsive landing page built in a Front-End team.
 <a href="https://github.com/NadiiaUa23/STP-12574">💻 GitHub</a>
 </p>
 
-</td>
-
-</tr>
-</table>
 
 <p>
 <img src="https://img.shields.io/badge/%20Languages-FFD43B?style=for-the-badge&logoColor=black" />
