@@ -13,7 +13,7 @@ Open to remote and on-site opportunities.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/👩‍💻%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
 <table width="100%">
@@ -29,7 +29,10 @@ Previously worked as an **Operating Room Nurse** for nearly **five years**, brin
 
 Passionate about creating **clean**, **responsive**, and **user-friendly web applications**.
 
-## 🤝 Connect with me 
+<p>
+<img src="https://img.shields.io/badge/📞%20Connect%20with%20me-FFD43B?style=for-the-badge&logoColor=black" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiia-tkachenko)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tkachenko_Nadiia) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nadiafullstack@gmail.com)
@@ -55,7 +58,9 @@ Please wait 🐾</span></b>
 </tr>
 </table>
 
-<h3>🚀 Tech Stack </h3>
+<p>
+<img src="https://img.shields.io/badge/%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="42" />
@@ -65,7 +70,9 @@ Please wait 🐾</span></b>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,nodejs" height="42" />
 </p>
 
-## 🌐 Commercial Projects (WordPress • Elementor)
+<p>
+<img src="https://img.shields.io/badge/%20Commercial%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
+</p> (WordPress • Elementor)
 
 - 🌍 **Carrocerías Usansolo** · [Live Website](https://carroceriasusansolo.com)
 
@@ -74,7 +81,9 @@ Please wait 🐾</span></b>
 - 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
 
-<h3>🚀 Featured Projects </h3>
+<p>
+<img src="https://img.shields.io/badge/%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
+</p>
 
 <table>
 <tr>
@@ -150,7 +159,9 @@ Responsive landing page built in a Front-End team.
 
 
 
-<h3>🎯 Current Focus</h3>
+<p>
+<img src="https://img.shields.io/badge/%20Current%20Focus-FFD43B?style=for-the-badge&logoColor=black" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white">
@@ -158,7 +169,9 @@ Responsive landing page built in a Front-End team.
   <img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square">
 </p>
 
-<h3>🌍 Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/%20Languages-FFD43B?style=for-the-badge&logoColor=black" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square">
