@@ -122,14 +122,38 @@ Responsive landing page built in a Front-End team.
 </tr>
 </table>
 
-## 🎯 Current Focus
+<table width="100%">
+<tr>
 
-![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square)
+<td width="60%" valign="top" align="left">
 
-## 🌍 Languages
+<h3>🎯 Current Focus</h3>
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square)
-![English](https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square)
-![Spanish](https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-007ACC?style=flat-square">
+</p>
+
+<h3>🌍 Languages</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Ukrainian-Native-F7DF1E?style=flat-square">
+  <img src="https://img.shields.io/badge/English-A2/B1-007ACC?style=flat-square">
+  <img src="https://img.shields.io/badge/Spanish-A2-E34F26?style=flat-square">
+</p>
+
+</td>
+
+<td width="40%" valign="middle" align="center">
+
+<img
+  src="./assets/cat-coding.gif"
+  alt="Animated cat coding"
+  width="280"
+/>
+
+</td>
+
+</tr>
+</table>
