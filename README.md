@@ -19,7 +19,7 @@ Open to remote and on-site opportunities.
 <p>
 <img src="https://img.shields.io/badge/%20About%20Me-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
-Hi! 👋 I'm **Nadiia**, a **Junior Front-End Developer** who believes it's never too late to change your life and start building something new.
+Junior Front-End Developer who believes it's never too late to change your life and start building something new.
 
 My path into software development began after nearly **five years as an Operating Room Nurse**. Moving to **Spain** inspired me to challenge myself, learn a completely new profession, and pursue a career in technology.
 
