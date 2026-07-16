@@ -81,75 +81,62 @@ Please wait 🐾</span></b>
 
 - 🌍 **Aroa Praiz Psicología** · [Live Website](https://aroapraizpsicologia.bwdesarrollo3.es)
 
-
 <p>
-<img src="https://img.shields.io/badge/%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🚀%20Featured%20Projects-FFD43B?style=for-the-badge&logoColor=black" />
 </p>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 <h3>📝 NoteHub Next.js</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts" height="42" />
-</p>
-
-<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts" height="34" />
+&nbsp;&nbsp;
 Modern note management application.
 </p>
 
 <p>
 <a href="https://06-notehub-nextjs-omega-jet.vercel.app/notes">🌍 Live Demo</a>
-</p>
-
-<p>
+&nbsp;•&nbsp;
 <a href="https://github.com/NadiiaUa23/06-notehub-nextjs">💻 GitHub</a>
 </p>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 <h3>🎬 React Movies</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,vite" height="42" />
-</p>
-
-<p>
-Movie search application using the TMDB API.
+<img src="https://skillicons.dev/icons?i=react,ts,vite" height="34" />
+&nbsp;&nbsp;
+Movie search application using TMDB API.
 </p>
 
 <p>
 <a href="https://03-react-movies-pi-nine.vercel.app">🌍 Live Demo</a>
-</p>
-
-<p>
+&nbsp;•&nbsp;
 <a href="https://github.com/NadiiaUa23/03-react-movies">💻 GitHub</a>
 </p>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 <h3>🎮 Bee Brilliant Blast</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="42" />
-</p>
-
-<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="34" />
+&nbsp;&nbsp;
 Responsive landing page built in a Front-End team.
 </p>
 
 <p>
 <a href="https://nadiiaua23.github.io/STP-12574/">🌍 Live Demo</a>
-</p>
-
-<p>
+&nbsp;•&nbsp;
 <a href="https://github.com/NadiiaUa23/STP-12574">💻 GitHub</a>
 </p>
 
