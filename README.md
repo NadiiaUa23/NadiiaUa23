@@ -86,18 +86,12 @@ Please wait 🐾</span></b>
 </p>
 
 
-<h3>📝 NoteHub Next.js</h3>
-
-<p>
+<h3>📝 NoteHub Next.js</h3> <p>
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts" height="34" />
 &nbsp;&nbsp;
-Modern note management application.
-</p>
-
-<p>
+Modern note management application.</p> <p>
 <a href="https://06-notehub-nextjs-omega-jet.vercel.app/notes">🌍 Live Demo</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/NadiiaUa23/06-notehub-nextjs">💻 GitHub</a>
+&nbsp;•&nbsp; <a href="https://github.com/NadiiaUa23/06-notehub-nextjs">💻 GitHub</a>
 </p>
 
 <h3>🎬 React Movies</h3>
