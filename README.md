@@ -148,7 +148,7 @@ Responsive landing page built in a Front-End team.
 <td width="40%" valign="middle" align="center">
 
 <img
-  src="./assets/cat-coding.gif"
+  src="./assets/fy2H.gif"
   alt="Animated cat coding"
   width="280"
 />
